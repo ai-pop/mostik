@@ -1,0 +1,13 @@
+{
+  "BaseUrl": "http://127.0.0.1:4891",
+  "ApiKey": "",
+  "Theme": "Dark",
+  "StartMinimized": false,
+  "CloseToTray": true,
+  "ServiceDir": "",
+  "GateEnabled": true,
+  "GuildId": "1551342664308228189",
+  "InviteUrl": "https://discord.gg/QKqZ4pz2aj",
+  "GateGraceDays": 7,
+  "GateCheckMinutes": 15
+}
